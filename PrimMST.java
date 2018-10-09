@@ -132,11 +132,6 @@ public class PrimMST {
 		System.out.println();
 	}
 
-	/*
-		Modelo de entrada:
-			n
-			mAdj[i,j]
-	*/
 	public static void main(String[] args) {
 		BufferedReader inReader = 
 	            new BufferedReader(new InputStreamReader(System.in));
