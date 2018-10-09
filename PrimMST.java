@@ -81,6 +81,14 @@ public class PrimMST {
 		
 	}
 
+	/*
+	*
+	*
+	*.    FUNÇÕES DE AUXÍLIO
+	*
+	*
+	*/
+
 	private static ArrayList<Vertex> buildMinHeap(Vertex[] vet){
 		
 		for (int i = (vet.length/2)-1; i >= 0; i--)
